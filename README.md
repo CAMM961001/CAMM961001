@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Procesos Pross S.A. de C.V.
+- 🔭 I’m currently working at Procesos Pross S.A. de C.V.
 - 🌱 I’m currently learning data science.
 - 💬 Ask me about F1 or NFL.
 - 📫 How to reach me: [Miguel Castaneda](https://www.linkedin.com/in/miguel-angel-castaneda-martinez-b0a566142?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXVYu4WiiRg%2Bo%2FkGjTEJQgg%3D%3D)
